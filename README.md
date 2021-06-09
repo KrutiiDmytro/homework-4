@@ -1,4 +1,4 @@
-# homework-4
+# homework-5
 # Задание 1
 from random import random
 a = int(random() * 100)
